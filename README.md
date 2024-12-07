@@ -9,7 +9,7 @@ Steve Reich, einer der wegweisenden Vertreter der Minimalmusik, schrieb z.B. die
 Beide Stücke können nach kleinen Erweiterungen leicht mit Ihrem MIDI-Programm generiert werden.
 
 Zusätzlich zur Abgabe sei Ihnen also die Implementation beider Stücke als Fingerübung ans Herz gelegt!
-Wer diese Stücke generiert, die entsprechenden Dateien abgibt und mir, erklären kann wie diese funktionieren, ist automatisch zur Abschlussprüfung zugelassen und bekommt 10% Bonus auf die Punkte.
+Wer diese Stücke generiert, die entsprechenden **Dateien abgibt und** mir **erklären kann** wie diese funktionieren, ist **automatisch zur Abschlussprüfung zugelassen und bekommt 10% Bonus** auf die Punkte.
 Die geforderten Dateien umfassen MIDI und Code und die Gesamtzahl der zu erreichenden Punkte ist auf 100% limitiert.
 Z.B. 95% der Punkte + Bonus = 100% und 0% der Punkte + Bonus = 10%.
 
