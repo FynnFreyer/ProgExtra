@@ -52,9 +52,6 @@ Gucken Sie sich zum besseren Verständnis auch diese [Visualisierung von Piano P
 Beim Programmieren kommt es häufig zu folgendem Ablauf:
 
 ```mermaid
----
-title: Typischer Ablauf
----
 flowchart LR
     write(Sie schreiben etwas)
     works(Es kompiliert)
